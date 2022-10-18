@@ -14,6 +14,9 @@
 
 **P.S:** i don't display JupyterNotebook, because you know...
 
+## How to contact me?
 
+~~Please, don't... I'm not ready for social interactions...~~
 
+Here is my Linkedin: [Linkedin](https://www.linkedin.com/in/sofya-aksenyuk-36a20b254/)
 
