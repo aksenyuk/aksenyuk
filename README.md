@@ -8,7 +8,7 @@
 
 :turtle: Apart from that, i'm currently working on scientific paper (another fun thing to do in your non-existing free time) with [@bujowskis](https://github.com/bujowskis).
 
-## Okey-dokey, let me list the mian programming languages used:
+## Okey-dokey, let me list the main programming languages used:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allsuitablenamesarealreadytaken&hide=jupyter%20notebook&theme=tokyonight)
 
