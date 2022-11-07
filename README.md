@@ -10,9 +10,9 @@
 
 ## Okey-dokey, let me list the main programming languages i use:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allsuitablenamesarealreadytaken&hide=jupyter%20notebook,css,html&theme=tokyonight&count-private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allsuitablenamesarealreadytaken&hide=css,html&theme=tokyonight&count-private=true)
 
-**P.S:** i don't display JupyterNotebook, because you know...
+**P.S:** JupyterNotebooks contain Python content.
 
 ## How to contact me?
 
