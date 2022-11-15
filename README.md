@@ -18,5 +18,7 @@
 
 ~~Please, don't... I'm not ready for social interactions...~~
 
-Here is my LinkedIn: [LinkedIn](https://www.linkedin.com/in/sofya-aksenyuk-36a20b254/)
+- [LinkedIn](https://www.linkedin.com/in/sofya-aksenyuk-36a20b254/)
+
+- sofya.axenyuk.02@gmail.com
 
