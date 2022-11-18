@@ -12,7 +12,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allsuitablenamesarealreadytaken&hide=css,html&theme=aura&count-private=true)
 
-**P.S:** JupyterNotebooks contain Python content.
+**P.S:** JupyterNotebooks contain Python content
 
 ## How to contact me?
 
