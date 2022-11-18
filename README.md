@@ -20,5 +20,9 @@
 
 - [LinkedIn](https://www.linkedin.com/in/sofya-aksenyuk-36a20b254/)
 
-- sofya.axenyuk.02@gmail.com
+- [Discord](https://discordapp.com/users/sonya#0690)
+
+- [Email](mailto:sofya.axenyuk.02@gmail.com)
+
+
 
