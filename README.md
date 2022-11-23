@@ -16,7 +16,7 @@
 
 ## How to contact me?
 
-~~Please, don't... I'm not ready for social interactions...~~
+~~Please, don't... i'm not ready for social interactions...~~
 
 <a href="https://www.linkedin.com/in/sofya-aksenyuk-36a20b254/">
     <img height="40" width="40" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
