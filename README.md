@@ -1,6 +1,6 @@
 ## Heyo! I'm Sonya/Sonia, AI student (i.e., nerd who's into trying different programming stuff and learning ~~boring~~ things for fun)
 
-> The essential thing to know about me is that i can't get why you're supposed to write "i" from a capital letter.
+> The essential thing to know about me is that i can't get why you're supposed to write _i_ from a capital letter.
 
 ## What is this github profile for?
 
