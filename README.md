@@ -1,10 +1,10 @@
 ## Heyo! I'm Sonya/Sonia, AI student (i.e., nerd who's into trying different programming stuff and learning ~~boring~~ things for fun)
 
-> The essential thing to know about me is that i can't get why you're supposed to write _i_ from a capital letter.
+> The essential thing to know about me is that i can't get why you're supposed to write _i_ from a capital letter
 
 ## What is this github profile for?
 
-:turtle: Basically, i upload some studies-related things here. Most of the main projects are being openly posted regularly, but once i graduate (soon **:/**) each minor assignment will be publically available (perhaps, you'd like to see what AI major is about).
+:turtle: Basically, i upload some studies-related things here. Most of the main projects are being openly posted regularly, but once i graduate (soon  **:/**) each minor assignment will be publically available (perhaps, you'd like to see what AI major is about).
 
 :turtle: Apart from that, i'm currently working on scientific paper (another fun thing to do in your non-existing free time) with [@bujowskis](https://github.com/bujowskis) (aka Szymon).
 
