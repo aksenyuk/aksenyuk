@@ -4,9 +4,9 @@
 
 ## What is this github profile for?
 
-:turtle: Basically, i upload some studies-related things here. Most of the main projects are being openly posted regularly, but once i graduate (soon  **:/**) each minor assignment will be publically available (perhaps, you'd like to see what AI major is about).
+:turtle: Basically, i upload some studies-related things here. Most of the main projects are being openly posted regularly, but once i graduate (soon  **:/**) each minor assignment will be publically available (perhaps, you'd like to see what AI major is about)
 
-:turtle: Apart from that, i'm currently working on scientific paper (another fun thing to do in your non-existing free time) with [@bujowskis](https://github.com/bujowskis) (aka Szymon).
+:turtle: Apart from that, i'm currently working on scientific paper (another fun thing to do in your non-existing free time) with [@bujowskis](https://github.com/bujowskis) (aka Szymon)
 
 ## Okey-dokey, let me list the main programming languages i use:
 
