@@ -12,7 +12,7 @@
 
 <div style="display: flex; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allsuitablenamesarealreadytaken&hide=css,html&theme=tokyonight&count-private=true&layout=compact" height="200"/>
-<!--     &nbsp&nbsp&nbsp -->
+    &nbsp&nbsp&nbsp
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=allsuitablenamesarealreadytaken&mode=weekly&theme=black-ice" height="200"/>
 </div>
 
