@@ -11,12 +11,10 @@
 ## Okey-dokey, let me list the main programming languages i code in and how often:
 
 <div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allsuitablenamesarealreadytaken&hide=css,html&theme=tokyonight&count-private=true&layout=compact" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allsuitablenamesarealreadytaken&hide=css,html,jupyter%20notebook&theme=tokyonight&count-private=true&layout=compact" height="200"/>
     &nbsp&nbsp&nbsp
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=allsuitablenamesarealreadytaken&mode=weekly&theme=black-ice" height="200"/>
 </div>
-
-**P.S:** JupyterNotebooks contain Python content
 
 ## How to contact me?
 
