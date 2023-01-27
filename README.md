@@ -8,7 +8,7 @@
 
 :turtle: Apart from that, i'm currently working on scientific paper (another fun thing to do in your non-existing free time) with [@bujowskis](https://github.com/bujowskis) (aka Szymon)
 
-## Okey-dokey, let me list the main programming languages i code in and how often
+## Okey-dokey, let me list the main programming languages i use
 
 <div style="display: flex; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allsuitablenamesarealreadytaken&hide=css,html,jupyter%20notebook,purebasic&theme=tokyonight&count-private=true&layout=compact" height="200"/>
