@@ -1,20 +1,18 @@
 ## Heyo! I'm Sonya, AI student (i.e., nerd who's into trying different programming stuff and learning ~~boring~~ things for fun)
 
-> The essential thing to know about me is that i can't get why you're supposed to write _i_ from a capital letter
+> The essential thing to know about me is that i can't get why you're supposed to write ___i___ from a capital letter
 
 ## What is this github profile for?
 
 :turtle: Basically, i upload some studies-related things here. Most of the main projects are being openly posted regularly, but once i graduate (soon  **:/**) each minor assignment will be publically available (perhaps, you'd like to see what AI major is about)
 
-:turtle: Apart from that, i'm currently working on scientific paper (another fun thing to do in your non-existing free time) with [@bujowskis](https://github.com/bujowskis) (aka Szymon)
+:turtle: Also, i do a lot of projects on my own (if i have some spare time **;)**)... but i want to do more....
+
+:turtle: Apart from that, i'm currently working on **Evolutionary Algorithm** research (another fun thing to do in your non-existing free time) with [@bujowskis](https://github.com/bujowskis) (aka Szymon)
 
 ## Okey-dokey, let me list the main programming languages i use
 
-<div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allsuitablenamesarealreadytaken&hide=css,html,jupyter%20notebook,purebasic&theme=tokyonight&count-private=true&layout=compact" height="200"/>
-    &nbsp&nbsp&nbsp
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=allsuitablenamesarealreadytaken&mode=weekly&theme=black-ice" height="200"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allsuitablenamesarealreadytaken&hide=css,html,jupyter%20notebook,purebasic&theme=tokyonight&count-private=true&layout=compact" height="200"/>
 
 ## How to contact me?
 
