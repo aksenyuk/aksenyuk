@@ -1,14 +1,15 @@
-## Heyo! I'm Sonya, AI student (i.e., nerd who's into trying different programming stuff and learning ~~boring~~ things for fun)
-
-> The essential thing to know about me is that i can't get why you're supposed to write ___i___ from a capital letter
+# Heyo, i'm Sonya!
+**AI student => nerd who's into trying different programming stuff and learning ~~boring~~ things for fun**
 
 ## What is this github profile for?
 
 :turtle: Basically, i upload some studies-related things here. Most of the main projects are being openly posted regularly, but once i graduate (soon  **:/**) each minor assignment will be publically available (perhaps, you'd like to see what AI major is about)
 
-:turtle: Also, i do a lot of projects on my own (if i have some spare time **;)**)... but i want to do more....
+:turtle: Also, i do various projects on my own (if i have some spare time **;)**)... but i want to do more....
 
-:turtle: Apart from that, i'm currently working on **Evolutionary Algorithm** research (another fun thing to do in your non-existing free time) with [@bujowskis](https://github.com/bujowskis) (aka Szymon)
+:turtle: Apart from that, i'm currently working on **Evolutionary Algorithm** research (another fun thing to do in your non-existing free time)
+
+> **P.S.:** The essential thing to know about me is that i can't get why you're supposed to write ___i___ from a capital letter
 
 ## Okey-dokey, let me list the main programming languages i use
 
@@ -31,6 +32,3 @@
 <a href="mailto:aksenyuk.sofya@gmail.com">
     <img height="40" width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2304/64/06-gmail-512.png"/>
 </a>
-
-
-
