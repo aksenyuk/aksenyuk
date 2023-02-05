@@ -11,7 +11,7 @@
 
 > **P.S.:** The essential thing to know about me is that i can't get why you're supposed to write ___i___ from a capital letter
 
-## Okey-dokey, let me list the main languages i use
+## Okey-dokey, let me list the main languages of mine
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allsuitablenamesarealreadytaken&hide=css,html,jupyter%20notebook,purebasic,tex&theme=tokyonight&count-private=true&layout=compact" width="400"/>
 
