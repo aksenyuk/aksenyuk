@@ -13,7 +13,7 @@
 
 ## Okey-dokey, let me list the main programming languages i use
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allsuitablenamesarealreadytaken&hide=css,html,jupyter%20notebook,purebasic,tex&theme=tokyonight&count-private=true&layout=compact" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allsuitablenamesarealreadytaken&hide=css,html,jupyter%20notebook,purebasic,tex&theme=tokyonight&count-private=true&layout=compact" width="400"/>
 
 ## How to contact me?
 
