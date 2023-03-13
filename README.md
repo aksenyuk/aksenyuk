@@ -7,7 +7,7 @@
 
 :turtle: Also, i do various projects on my own (if i have some spare time **;)**)... but i want to do more....
 
-:turtle: Apart from that, i'm currently working on **Evolutionary Algorithm** research (another fun thing to do in your non-existing free time)
+:turtle: Apart from that, i'm currently working on ***Evolutionary Algorithms*** research (another fun thing to do in your non-existing free time)
 
 > **P.S.:** The essential thing to know about me is that i can't get why you're supposed to write ___i___ from a capital letter
 
