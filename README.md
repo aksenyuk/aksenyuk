@@ -1,17 +1,15 @@
-# Heyo, i'm Sonya!
-**AI student => nerd who's into trying different programming stuff and learning things for fun**
-
-> **P.S.:** The essential thing to know about me is that i can't get why you're supposed to write ___i___ from a capital letter
+# Hello, I'm Sonya!
+**AI student | Geek who's into trying different programming stuff and learning things for fun**
 
 ## What is this github profile for?
 
-:turtle: Mainly, i specialize in ***AI, ML***
+:turtle: Mainly, I specialize in ***AI, ML***
 
-:turtle: However, i also had a chance to work on ***Evolutionary Algorithms*** research
+:turtle: However, I also had a chance to work on ***Evolutionary Algorithms*** research
 
-:turtle: Also, i do various projects on my own, that include ***Frontend, Backend*** as well
+:turtle: Also, I do various projects on my own, that include ***Frontend, Backend*** as well
 
-:turtle: Apart from that, i upload some studies-related things here. Most of the main projects are being openly posted regularly, but once i graduate (soon  **:/**) each minor assignment will be publically available
+:turtle: Apart from that, I upload some studies-related things here. Most of the main projects are being openly posted regularly, but once I graduate (soon  **:/**) each minor assignment will be publically available
 
 > **Keywords:** AI, ML, R&D, Frontend, Backend
 
