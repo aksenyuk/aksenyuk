@@ -1,7 +1,7 @@
 # Hello, I'm Sonya!
 **AI student | Geek who's into trying different programming stuff and learning things for fun**
 
-## What is this github profile for?
+## What can you find on this github profile?
 
 :turtle: Mainly, I specialize in ***AI, ML***
 
