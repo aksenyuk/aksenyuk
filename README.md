@@ -15,7 +15,15 @@
 
 ## Okey-dokey, let me list the main languages of mine
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allsuitablenamesarealreadytaken&hide=css,html,jupyter%20notebook,purebasic,tex&theme=tokyonight&count-private=true&layout=compact" width="400"/>
+:baby_chick: Python
+
+:baby_chick: Javascript, React
+
+:baby_chick: Java
+
+:baby_chick: C++
+
+> **Note:** From most to least used
 
 ## How to contact me?
 
