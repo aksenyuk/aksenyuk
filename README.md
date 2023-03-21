@@ -23,7 +23,7 @@
 
 :baby_chick: C++
 
-> **Note:** From most to least used
+> **Note:** Listed from most to least used
 
 ## How to contact me?
 
