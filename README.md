@@ -15,13 +15,13 @@
 
 ## Okey-dokey, let me list the main languages of mine
 
-:baby_chick: Python
+:bug: ***Python***
 
-:baby_chick: Javascript, React
+:bug: Javascript, React
 
-:baby_chick: Java
+:bug: Java
 
-:baby_chick: C++
+:bug: C++
 
 > **Note:** Listed from most to least used
 
