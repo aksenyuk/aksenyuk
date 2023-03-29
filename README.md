@@ -13,17 +13,17 @@
 
 > **Keywords:** AI, ML, R&D, Frontend, Backend
 
-## Okey-dokey, let me list the main languages of mine
 
-:bug: ***Python***
 
-:bug: Javascript, React
 
-:bug: Java
 
-:bug: C++
 
-> **Note:** Listed from most to least used
+
+
+
+
+
+
 
 ## How to contact me?
 
