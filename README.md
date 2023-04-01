@@ -7,11 +7,11 @@
 
 :turtle: However, I am also working on ***Evolutionary Algorithms*** research
 
-:turtle: Also, I do various projects on my own, that include ***Frontend/Backend*** as well as ***Computer Vision***
+:turtle: Also, I do various projects on my own, that include ***Webdev*** as well as ***Computer Vision***
 
 :turtle: Apart from that, I upload some studies-related things here. Most of the main projects are being openly posted regularly, but once I graduate (soon  **:/**) each minor assignment will be publically available
 
-> **Keywords:** AI, ML, R&D, Frontend, Backend, Computer Vision
+> **Keywords:** AI, ML, R&D, Webdev, Computer Vision
 
 ## How to contact me?
 
