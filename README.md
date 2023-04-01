@@ -9,7 +9,7 @@
 
 :turtle: Also, I do various projects on my own, including ***Webdev*** and ***Computer Vision*** as well
 
-:turtle: Apart from that, I upload some studies-related things here. Most of the main projects are being openly posted regularly, but once I graduate (soon  **:/**) each minor assignment will be publically available
+:turtle: Apart from that, I upload some studies-related things here. Most of the main projects are being openly posted regularly, but once I graduate ~ soon  **:/** ~ each minor assignment will be publically available
 
 > **Keywords:** AI, ML, R&D, Webdev, Computer Vision
 
