@@ -5,7 +5,7 @@
 
 :turtle: Mainly, I specialize in ***AI, ML***
 
-:turtle: However, I also had a chance to work on ***Evolutionary Algorithms*** research
+:turtle: However, I am also working on ***Evolutionary Algorithms*** research
 
 :turtle: Also, I do various projects on my own, that include ***Frontend/Backend*** as well as ***Computer Vision***
 
