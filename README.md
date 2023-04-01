@@ -1,5 +1,5 @@
 # Hello, I'm Sonya!
-**AI student | AI Engineer at Capgemini | Geek who's into trying different programming stuff and learning things for fun**
+**AI student | AI Intern at Capgemini | Geek who's into trying different programming stuff and learning things for fun**
 
 ## What can you find on this github profile?
 
