@@ -7,7 +7,7 @@
 
 :turtle: However, I also had a chance to work on ***Evolutionary Algorithms*** research
 
-:turtle: Also, I do various projects on my own, that include ***Frontend, Backend*** as well
+:turtle: Also, I do various projects on my own, that include ***Frontend/Backend*** as well
 
 :turtle: Apart from that, I upload some studies-related things here. Most of the main projects are being openly posted regularly, but once I graduate (soon  **:/**) each minor assignment will be publically available
 
