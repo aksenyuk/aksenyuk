@@ -1,11 +1,11 @@
 # Hello, I'm Sonya!
-**AI student | Software Testing Intern at Capgemini | Nerd who's into learning things for fun**
+**AI Student | Software Testing Intern at Capgemini**
 
 ## What can you find on this github profile?
 
 :turtle: Mainly, I specialize in ***AI, ML***
 
-:turtle: However, I am also working on ***Evolutionary Algorithms*** research
+:turtle: However, I also got a chance to work on ***Evolutionary Algorithms*** research.
 
 :turtle: Besides, I've got a ***NLP-related*** thesis work in progress
 
