@@ -5,7 +5,7 @@
 
 :turtle: Mainly, I specialize in ***AI, ML***
 
-:turtle: However, I also got a chance to work on ***Evolutionary Algorithms*** research.
+:turtle: However, I also got a chance to work on ***Evolutionary Algorithms*** research
 
 :turtle: Besides, I've got a ***NLP-related*** thesis work in progress
 
