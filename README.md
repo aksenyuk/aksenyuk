@@ -1,5 +1,5 @@
 # Hello, I'm Sonya!
-**AI Student | SDET Intern at Capgemini**
+**AI Student | Intern at Capgemini**
 
 ## What can you find on this github profile?
 
