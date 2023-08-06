@@ -3,23 +3,13 @@
 
 ## What can you find on this github profile?
 
-:turtle: Mainly, I specialize in ***AI, ML***
-
-:turtle: However, I also got a chance to work on ***Evolutionary Algorithms*** research
-
-:turtle: Besides, I've got a ***NLP-related*** thesis work in progress
-
-:turtle: Also, I do various projects on my own, including ***Webdev*** and ***Computer Vision*** as well
-
-:turtle: Apart from that, I upload some studies-related things here
 
 > **Keywords:** AI, ML, R&D, NLP, Webdev, Computer Vision, Software Development
 
-**Check out my repos to know more!**
 
 ## How to contact me?
 
-Got any questions? Feel free to ping me anytime!
+Feel free to ping me anytime!
 
 <a href="https://www.linkedin.com/in/sofya-aksenyuk/">
     <img height="40" width="40" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
