@@ -5,8 +5,6 @@
 
 ## How to contact me?
 
-Feel free to ping me anytime!
-
 <a href="https://www.linkedin.com/in/sofya-aksenyuk/">
     <img height="40" width="40" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
