@@ -1,8 +1,4 @@
 # Hello, I'm Sonya!
-**AI Student | Intern at Capgemini**
-
-## What can you find on this github profile?
-
 
 > **Keywords:** AI, ML, R&D, NLP, Webdev, Computer Vision, Software Development
 
