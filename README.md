@@ -1,4 +1,4 @@
-# Hello, I'm Sonya!
+# Hello, I'm Sonia!
 
 > **Keywords:** AI, ML, R&D, NLP, Webdev, Computer Vision, Software Development
 
